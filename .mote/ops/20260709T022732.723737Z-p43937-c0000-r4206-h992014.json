@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-3-solver-api","kind":"reserve_open","mode":"exclusive","op":"20260709T022732.723737Z-p43937-c0000-r4206-h992014","paths":["core/shared/src/main/scala/gale/linalg/LinAlgError.scala"],"reservation_id":"rv-01KX2B7A7K4G8PEX5FWC0YSBA7","ts":"2026-07-09T02:27:32.723737Z","ttl_s":3600,"v":1}

@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-qr","kind":"create","op":"20260709T005014.408691Z-p95033-c0000-r96de-hec1936","set":{"body":"Implement Householder QR and least-squares solve with reconstruction and residual laws.","priority":1,"status":"open","title":"Implement QR and least squares"},"ts":"2026-07-09T00:50:14.408691Z","v":1}

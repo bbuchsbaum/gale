@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-cholesky","kind":"create","op":"20260709T005014.335586Z-p95032-c0000-r7c05-h1721ba","set":{"body":"Implement Cholesky for positive-definite matrices plus triangular solve and non-PD diagnostics.","priority":1,"status":"open","title":"Implement Cholesky and triangular solve"},"ts":"2026-07-09T00:50:14.335586Z","v":1}

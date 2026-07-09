@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-domain-types","kind":"note","note_kind":"note","op":"20260709T012344.605542Z-p11811-c0000-r3344-h7bc7a9","text":"implemented opaque Rows/Cols/Length/Offset/Stride/indices and Shape/Layout; verified by sbt testAll","ts":"2026-07-09T01:23:44.605542Z","v":1}

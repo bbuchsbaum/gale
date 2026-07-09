@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-3-iterative-solvers","kind":"note","note_kind":"progress","op":"20260709T022835.097239Z-p44469-c0003-rd0cb-hc97077","text":"Starting CG, BiCGSTAB, restarted GMRES, and LSQR-style least-squares solver candidates.","ts":"2026-07-09T02:28:35.097239Z","v":1}

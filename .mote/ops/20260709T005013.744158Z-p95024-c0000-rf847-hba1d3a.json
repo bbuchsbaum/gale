@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-domain-types","kind":"create","op":"20260709T005013.744158Z-p95024-c0000-rf847-hba1d3a","set":{"body":"Add opaque Rows, Cols, Length, Offset, Stride, RowIndex, ColIndex, and NonZeroCount constructors with validation.","priority":0,"status":"open","title":"Add opaque dimension and index types"},"ts":"2026-07-09T00:50:13.744158Z","v":1}

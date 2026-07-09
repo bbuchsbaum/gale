@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-rem-p6-v1-surface","kind":"note","note_kind":"progress","op":"20260709T061246.315639Z-p37687-c0003-r8e69-h258881","text":"M6 module split first, then triangular solve, canonicalization surface, Banded, CSC parity, real LSQR, CI/Wasm, scaladoc","ts":"2026-07-09T06:12:46.315639Z","v":1}

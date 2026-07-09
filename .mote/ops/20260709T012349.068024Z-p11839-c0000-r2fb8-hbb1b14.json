@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-platform-storage","kind":"note","note_kind":"note","op":"20260709T012349.068024Z-p11839-c0000-r2fb8-hbb1b14","text":"implemented JVM Array-backed and Scala.js typed-array-backed DoubleArray/FloatArray/IndexArray; verified by sbt testAll","ts":"2026-07-09T01:23:49.068024Z","v":1}

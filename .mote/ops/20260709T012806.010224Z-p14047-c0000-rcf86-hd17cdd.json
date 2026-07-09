@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-tests-laws","kind":"note","note_kind":"note","op":"20260709T012806.010224Z-p14047-c0000-rcf86-hd17cdd","text":"added munit-scalacheck DenseLawSuite for vector laws, matvec linearity, transpose/views, and shape errors; sbt testAll passed on JVM and JS with 12 tests/properties","ts":"2026-07-09T01:28:06.010224Z","v":1}

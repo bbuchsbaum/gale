@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-epic-v0-5-acceleration","kind":"create","op":"20260709T005013.428227Z-p95020-c0000-re42e-h59531d","set":{"body":"PRD roadmap v0.5. Add optional JVM acceleration, Wasm profile, backend conformance, and benchmark dashboard.","priority":2,"status":"open","title":"Epic: v0.5 acceleration backends"},"ts":"2026-07-09T00:50:13.428227Z","v":1}

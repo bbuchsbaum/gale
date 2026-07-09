@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-workspace-api","kind":"note","note_kind":"note","op":"20260709T020623.714519Z-p33558-c0000-ra3af-haf0eca","text":"Added DenseWorkspace with reusable platform pivot/work/tau buffers and workspace-aware DMat/DenseDecompositions entry points. Verified with sbt testAll on JVM and Scala.js.","ts":"2026-07-09T02:06:23.714519Z","v":1}

@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-core-smoke-tests","kind":"reserve_open","mode":"exclusive","op":"20260709T012219.677569Z-p11130-c0000-r1e7f-ha27878","paths":["core/shared/src/test/scala/gale/linalg/DenseCoreSuite.scala"],"reservation_id":"rv-01KX27FWWXFG1GYZ14QY2MJA5P","ts":"2026-07-09T01:22:19.677569Z","ttl_s":3600,"v":1}

@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-tests-laws","kind":"reserve_open","mode":"exclusive","op":"20260709T012606.254003Z-p12952-c0000-re1bc-ha18e93","paths":["build.sbt","core/shared/src/test/scala/gale/linalg/DenseLawSuite.scala"],"reservation_id":"rv-01KX27PT5DV277DZBVF1H86M9Z","ts":"2026-07-09T01:26:06.254003Z","ttl_s":3600,"v":1}

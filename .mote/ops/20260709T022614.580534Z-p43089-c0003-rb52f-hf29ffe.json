@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-3-sparse-ops","kind":"note","note_kind":"progress","op":"20260709T022614.580534Z-p43089-c0003-rb52f-hf29ffe","text":"Starting CSR sparse operations: add/subtract/scale/map/zip/dense-matrix multiply/diagonal.","ts":"2026-07-09T02:26:14.580534Z","v":1}

@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-benchmarks","kind":"create","op":"20260709T005014.123114Z-p95029-c0000-rc91d-h979e74","set":{"body":"Add initial JMH and Scala.js benchmark harnesses for dot, axpy, gemv, and gemm.","priority":1,"status":"open","title":"Add dense kernel benchmark skeleton"},"ts":"2026-07-09T00:50:14.123114Z","v":1}

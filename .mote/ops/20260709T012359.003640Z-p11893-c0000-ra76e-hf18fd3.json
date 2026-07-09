@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-pure-kernels","kind":"note","note_kind":"note","op":"20260709T012359.003640Z-p11893-c0000-ra76e-hf18fd3","text":"implemented pure Double ddot/dcopy/daxpy/dscal/add/sub/gemv/gemm kernels; verified by sbt testAll","ts":"2026-07-09T01:23:59.003640Z","v":1}

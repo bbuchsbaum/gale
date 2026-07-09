@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-4-breeze-interop","kind":"create","op":"20260709T005015.243207Z-p95044-c0000-r7922-ha6be33","set":{"body":"Add JVM-only Breeze conversion helpers and safe migration aliases without making Breeze a core dependency.","priority":2,"status":"open","title":"Add Breeze interop module"},"ts":"2026-07-09T00:50:15.243207Z","v":1}

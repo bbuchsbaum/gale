@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-build-layout","kind":"create","op":"20260709T005013.585146Z-p95022-c0000-r5fb7-h6121d5","set":{"body":"Scaffold sbt-crossproject modules, JVM/JS targets, core package namespaces, and CI aliases for Gale.","priority":0,"status":"open","title":"Scaffold cross-platform build and module layout"},"ts":"2026-07-09T00:50:13.585146Z","v":1}

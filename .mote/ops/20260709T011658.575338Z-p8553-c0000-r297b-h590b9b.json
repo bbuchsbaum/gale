@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-build-layout","kind":"note","note_kind":"note","op":"20260709T011658.575338Z-p8553-c0000-r297b-h590b9b","text":"created sbt crossProject build with coreJVM/coreJS and verified sbt projects loads","ts":"2026-07-09T01:16:58.575338Z","v":1}

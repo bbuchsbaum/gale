@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-3-csr-csc","kind":"create","op":"20260709T005014.710656Z-p95037-c0000-ref80-h7e9ecd","set":{"body":"Implement CSR, CSC, diagonal, identity, zero, and permutation formats over platform storage.","priority":1,"status":"open","title":"Implement sparse storage formats"},"ts":"2026-07-09T00:50:14.710656Z","v":1}

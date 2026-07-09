@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-backend-performance-strategy","kind":"note","note_kind":"note","op":"20260709T011124.521965Z-p5120-c0000-rd708-h18ffe4","text":"PRD now codifies pure JVM/native backend strategy, thresholds, NativeDMat, threading, tiny kernels, blocked GEMM, and scenario benchmarks","ts":"2026-07-09T01:11:24.521965Z","v":1}

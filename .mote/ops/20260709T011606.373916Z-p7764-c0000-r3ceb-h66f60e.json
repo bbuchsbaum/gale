@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-build-layout","kind":"reserve_open","mode":"exclusive","op":"20260709T011606.373916Z-p7764-c0000-r3ceb-h66f60e","paths":["build.sbt","project/plugins.sbt","project/build.properties","core"],"reservation_id":"rv-01KX274GB5ZAMFJCHMJ288Z738","ts":"2026-07-09T01:16:06.373916Z","ttl_s":3600,"v":1}

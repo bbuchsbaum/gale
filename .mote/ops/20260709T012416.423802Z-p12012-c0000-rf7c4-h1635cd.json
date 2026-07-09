@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-core-smoke-tests","kind":"note","note_kind":"note","op":"20260709T012416.423802Z-p12012-c0000-rf7c4-h1635cd","text":"added shared DenseCoreSuite covering DVec, DMat, views, matvec, matmul, transpose, updates, and shape errors; sbt testAll passed on JVM and JS","ts":"2026-07-09T01:24:16.423802Z","v":1}

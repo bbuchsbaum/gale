@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-factorization-types","kind":"note","note_kind":"note","op":"20260709T020503.519359Z-p32902-c0000-rd248-h45f694","text":"Added LU, Cholesky, QR, PivotVector, FactorizationDiagnostics, decomposition entry points on DMat, and numerical error cases. Verified with sbt testAll on JVM and Scala.js.","ts":"2026-07-09T02:05:03.519359Z","v":1}

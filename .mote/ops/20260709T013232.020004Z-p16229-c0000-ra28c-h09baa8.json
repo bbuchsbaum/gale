@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-benchmarks","kind":"note","note_kind":"note","op":"20260709T013232.020004Z-p16229-c0000-ra28c-h09baa8","text":"Added JVM JMH benchmark project and Scala.js benchmark runner for dot, axpy, gemv, and gemm. Verified with sbt benchCompile, sbt benchSmokeJS, and sbt testAll.","ts":"2026-07-09T01:32:32.020004Z","v":1}

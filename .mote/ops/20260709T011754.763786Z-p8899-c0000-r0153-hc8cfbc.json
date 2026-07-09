@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-pure-kernels","kind":"reserve_open","mode":"exclusive","op":"20260709T011754.763786Z-p8899-c0000-r0153-hc8cfbc","paths":["core/shared/src/main/scala/gale/kernel/DoubleKernels.scala"],"reservation_id":"rv-01KX277T6BC6291H129X220V66","ts":"2026-07-09T01:17:54.763786Z","ttl_s":3600,"v":1}

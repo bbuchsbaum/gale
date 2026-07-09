@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-lu","kind":"note","note_kind":"note","op":"20260709T020819.034133Z-p34576-c0000-r18c6-hc73cca","text":"Implemented pure dense LU with partial pivoting, pivot vectors, solve, determinant, singular diagnostics, and residual/pivot tests. Verified with sbt testAll on JVM and Scala.js.","ts":"2026-07-09T02:08:19.034133Z","v":1}

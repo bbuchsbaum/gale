@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-rank-condition","kind":"create","op":"20260709T005014.482254Z-p95034-c0000-r971f-h778476","set":{"body":"Add rank estimate, condition estimate, ill-conditioned fixtures, and documented tolerances.","priority":2,"status":"open","title":"Add rank and condition estimates"},"ts":"2026-07-09T00:50:14.482254Z","v":1}

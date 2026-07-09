@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-rem-p0-api-decisions","kind":"note","note_kind":"progress","op":"20260709T034417.843456Z-p94134-c0003-rfb7d-h117187","text":"Implementing API decisions: MutableVec tier, Either-first solve + orThrow, delete RowIndex/ColIndex, Layout->predicates","ts":"2026-07-09T03:44:17.843456Z","v":1}

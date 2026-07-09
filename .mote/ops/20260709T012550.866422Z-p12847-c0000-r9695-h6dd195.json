@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-tiny-fixed-kernels","kind":"note","note_kind":"note","op":"20260709T012550.866422Z-p12847-c0000-r9695-h6dd195","text":"implemented Vec2/3/4 and Mat2/3/4 with unrolled matvec/det plus shared tests; sbt testAll passed on JVM and JS","ts":"2026-07-09T01:25:50.866422Z","v":1}

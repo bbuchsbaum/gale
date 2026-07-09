@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-cholesky","kind":"note","note_kind":"note","op":"20260709T020919.070324Z-p35108-c0000-r5c54-h25a50b","text":"Implemented pure dense Cholesky, triangular solve, reconstruction tests, residual tests, and non-PD diagnostics. Verified with sbt testAll on JVM and Scala.js.","ts":"2026-07-09T02:09:19.070324Z","v":1}

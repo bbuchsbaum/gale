@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-domain-types","kind":"reserve_open","mode":"exclusive","op":"20260709T011754.714487Z-p8896-c0000-r7fef-hacb200","paths":["core/shared/src/main/scala/gale/linalg/Shape.scala"],"reservation_id":"rv-01KX277T4TT9E9QRDJK9QXSHTC","ts":"2026-07-09T01:17:54.714487Z","ttl_s":3600,"v":1}

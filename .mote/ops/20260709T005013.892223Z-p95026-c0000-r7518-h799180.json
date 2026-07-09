@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-pure-kernels","kind":"create","op":"20260709T005013.892223Z-p95026-c0000-r7518-h799180","set":{"body":"Implement pure Scala dot, axpy, scal, gemv, gemm, contiguous paths, strided paths, and transpose-view paths.","priority":0,"status":"open","title":"Implement pure dense kernels"},"ts":"2026-07-09T00:50:13.892223Z","v":1}

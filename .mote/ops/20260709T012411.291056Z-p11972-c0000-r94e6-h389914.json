@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-public-ops","kind":"note","note_kind":"note","op":"20260709T012411.291056Z-p11972-c0000-r94e6-h389914","text":"implemented gale.linalg constructors, operators, norm helper, and error model; verified by sbt testAll","ts":"2026-07-09T01:24:11.291056Z","v":1}

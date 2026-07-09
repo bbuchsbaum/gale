@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-1-dvec-dmat","kind":"reserve_open","mode":"exclusive","op":"20260709T011754.724619Z-p8897-c0000-r37a7-hf15ac1","paths":["core/shared/src/main/scala/gale/linalg/Vec.scala","core/shared/src/main/scala/gale/linalg/Matrix.scala"],"reservation_id":"rv-01KX277T54G9X3601SK5NVS7B4","ts":"2026-07-09T01:17:54.724619Z","ttl_s":3600,"v":1}

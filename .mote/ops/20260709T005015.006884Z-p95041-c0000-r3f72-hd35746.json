@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-3-matrix-market-laws","kind":"create","op":"20260709T005015.006884Z-p95041-c0000-r3f72-hd35746","set":{"body":"Add Matrix Market read/write and dense-sparse equivalence laws for small matrices.","priority":2,"status":"open","title":"Add sparse IO and dense-sparse laws"},"ts":"2026-07-09T00:50:15.006884Z","v":1}

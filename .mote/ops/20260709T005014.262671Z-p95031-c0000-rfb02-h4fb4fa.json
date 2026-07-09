@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-2-lu","kind":"create","op":"20260709T005014.262671Z-p95031-c0000-rfb02-h4fb4fa","set":{"body":"Implement LU with partial pivoting, solve, determinant, singular diagnostics, and residual tests.","priority":1,"status":"open","title":"Implement LU with partial pivoting"},"ts":"2026-07-09T00:50:14.262671Z","v":1}

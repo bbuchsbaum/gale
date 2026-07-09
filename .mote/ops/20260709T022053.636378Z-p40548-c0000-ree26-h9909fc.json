@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-3-linear-operator","kind":"note","note_kind":"note","op":"20260709T022053.636378Z-p40548-c0000-ree26-h9909fc","text":"Added LinearOperator and DoubleLinearOperator, integrated DMat applyTo/transposeApplyTo, and added matrix-free operator tests. Verified with sbt testAll on JVM and Scala.js.","ts":"2026-07-09T02:20:53.636378Z","v":1}

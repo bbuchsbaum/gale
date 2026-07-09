@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-4-syntax-modules","kind":"create","op":"20260709T005015.315237Z-p95045-c0000-r698c-h8cc3c9","set":{"body":"Add standard, pointwise, and optional Unicode syntax modules while keeping primary APIs readable.","priority":2,"status":"open","title":"Polish syntax modules"},"ts":"2026-07-09T00:50:15.315237Z","v":1}
