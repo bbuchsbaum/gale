@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-3-5-dense-spectral-kernels","kind":"reserve_open","mode":"exclusive","op":"20260709T092711.971914Z-p81934-c0000-rfe88-h7858e7","paths":["core/shared/src/main/scala/gale/spectral","core/shared/src/test/scala/gale/spectral"],"reservation_id":"rv-01KX337QB3WS7EERYN6FX98EB9","ts":"2026-07-09T09:27:11.971914Z","ttl_s":3600,"v":1}

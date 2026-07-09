@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-3-5-dense-spectral-kernels","kind":"note","note_kind":"progress","op":"20260709T092712.050685Z-p81934-c0003-r923b-h073726","text":"Implementing private[gale] dense spectral kernels (Householder tridiag + implicit-shift QL/QR; Hessenberg + Francis double-shift QR) via subagent, single-writer","ts":"2026-07-09T09:27:12.050685Z","v":1}
