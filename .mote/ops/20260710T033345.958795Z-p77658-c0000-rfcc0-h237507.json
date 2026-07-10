@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-blas-kernel-tuning","kind":"create","op":"20260710T033345.958795Z-p77658-c0000-rfcc0-h237507","set":{"status":"open","title":"Tune BLAS kernels to catch pure-JVM Breeze"},"ts":"2026-07-10T03:33:45.958795Z","v":1}
