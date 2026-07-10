@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-3-5-partial-symmetric-eigen","kind":"note","note_kind":"progress","op":"20260709T133047.272424Z-p5596-c0003-rbb4f-ha98dbc","text":"Implementing public symmetric eigen API (dense full/subset + Lanczos partial) on DenseSpectralKernels; delegated to kernels-implementer session","ts":"2026-07-09T13:30:47.272424Z","v":1}

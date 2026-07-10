@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-3-5-partial-symmetric-eigen","kind":"reserve_open","mode":"exclusive","op":"20260709T133047.163713Z-p5596-c0000-r2388-he760a6","paths":["core/shared/src/main/scala/gale/spectral","core/shared/src/test/scala/gale/spectral"],"reservation_id":"rv-01KX3H5QZVSRNACG5A2VKXFDG9","ts":"2026-07-09T13:30:47.163713Z","ttl_s":3600,"v":1}
