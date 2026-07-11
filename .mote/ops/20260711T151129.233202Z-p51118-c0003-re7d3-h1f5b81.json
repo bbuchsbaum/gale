@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-4-property-wrappers","kind":"note","note_kind":"progress","op":"20260711T151129.233202Z-p51118-c0003-re7d3-h1f5b81","text":"Implementing zero-cost assumed/verified dense and canonical-sparse property wrappers with invariant-driven JVM/JS tests","ts":"2026-07-11T15:11:29.233202Z","v":1}
