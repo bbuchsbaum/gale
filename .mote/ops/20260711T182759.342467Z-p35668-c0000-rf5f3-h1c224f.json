@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-4-sized-layer","kind":"reserve_open","mode":"exclusive","op":"20260711T182759.342467Z-p35668-c0000-rf5f3-h1c224f","paths":["core/shared/src/main/scala/gale/sized","core/shared/src/test/scala/gale/sized"],"reservation_id":"rv-01KX96ZC7ED2AMZ2FH4HD0H1HM","ts":"2026-07-11T18:27:59.342467Z","ttl_s":3600,"v":1}
