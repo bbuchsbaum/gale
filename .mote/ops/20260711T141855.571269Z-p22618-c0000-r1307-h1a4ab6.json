@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-left-eigenvectors","kind":"reserve_open","mode":"exclusive","op":"20260711T141855.571269Z-p22618-c0000-r1307-h1a4ab6","paths":["core/shared/src/main/scala/gale/spectral","core/shared/src/test/scala/gale/spectral"],"reservation_id":"rv-01KX8RQAPKRC100YSNMZY1CAD5","ts":"2026-07-11T14:18:55.571269Z","ttl_s":3600,"v":1}
