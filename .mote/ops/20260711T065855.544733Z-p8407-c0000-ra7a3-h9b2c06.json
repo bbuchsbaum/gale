@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-3-5-generalized-svd","kind":"reserve_open","mode":"exclusive","op":"20260711T065855.544733Z-p8407-c0000-ra7a3-h9b2c06","paths":["core/shared/src/main/scala/gale/spectral","core/shared/src/test/scala/gale/spectral"],"reservation_id":"rv-01KX7ZHNDRAMCTA4W4MKDA6QFQ","ts":"2026-07-11T06:58:55.544733Z","ttl_s":3600,"v":1}
