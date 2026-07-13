@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-5-facade-seam","kind":"create","op":"20260713T165158.430309Z-p36200-c0000-r7e40-hfb6065","set":{"status":"open","title":"Wire the coarse gemm dispatch seam into DMat.*"},"ts":"2026-07-13T16:51:58.430309Z","v":1}
