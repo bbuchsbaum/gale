@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-5-vector-backend","kind":"reserve_open","mode":"exclusive","op":"20260713T171153.837680Z-p64359-c0000-rc20f-ha80ee9","paths":["backend-jvm-vector","build.sbt","core/jvm/src/main/scala/gale/platform/PlatformArrays.scala"],"reservation_id":"rv-01KXE7DFQDZVZFBJAC52820G2B","ts":"2026-07-13T17:11:53.837680Z","ttl_s":3600,"v":1}
