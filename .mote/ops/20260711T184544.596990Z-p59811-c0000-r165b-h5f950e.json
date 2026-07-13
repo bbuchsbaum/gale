@@ -1,0 +1,1 @@
+{"actor":"claude-gale-review","entity":"gale-v0-4-syntax-modules","kind":"reserve_open","mode":"exclusive","op":"20260711T184544.596990Z-p59811-c0000-r165b-h5f950e","paths":["core/shared/src/main/scala/gale/syntax","core/shared/src/test/scala/gale/syntax"],"reservation_id":"rv-01KX97ZWGM8DG8GCR9AA4FKWEH","ts":"2026-07-11T18:45:44.596990Z","ttl_s":3600,"v":1}
