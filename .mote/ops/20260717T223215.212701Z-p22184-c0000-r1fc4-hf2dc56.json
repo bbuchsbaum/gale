@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v1-0-binary-policy","kind":"reserve_open","mode":"exclusive","op":"20260717T223215.212701Z-p22184-c0000-r1fc4-hf2dc56","paths":["docs/release-policy.md","build.sbt","README.md"],"reservation_id":"rv-01KXS3AYKC2KE2DYFGW5MVDFKG","ts":"2026-07-17T22:32:15.212701Z","ttl_s":3600,"v":1}
