@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-backend-contract","kind":"reserve_open","mode":"exclusive","op":"20260714T162742.395178Z-p7782-c0000-rb681-h6e82ca","paths":["core/shared/src/main/scala/gale/linalg/LinearOperator.scala"],"reservation_id":"rv-01KXGQ99DVDGH54A42E0T1Q07H","ts":"2026-07-14T16:27:42.395178Z","ttl_s":3600,"v":1}

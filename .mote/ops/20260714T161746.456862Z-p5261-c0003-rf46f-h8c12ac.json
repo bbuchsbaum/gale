@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-vector-backend","kind":"note","note_kind":"progress","op":"20260714T161746.456862Z-p5261-c0003-rf46f-h8c12ac","text":"Reopened after audit: current 32^3 route is 24-47% slower than pure; repair microkernel, add JMH and JDK 21/22 CI, and measure a conservative crossover before re-closing.","ts":"2026-07-14T16:17:46.456862Z","v":1}
