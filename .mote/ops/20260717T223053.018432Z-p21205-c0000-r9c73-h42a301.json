@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-benchmark-dashboard","kind":"note","note_kind":"progress","op":"20260717T223053.018432Z-p21205-c0000-r9c73-h42a301","text":"Dashboard now covers pure JVM/JS, Vector, FFM BLAS/LAPACK, and executed Wasm evidence, with measured wins separated from conforming but default-off routes.","ts":"2026-07-17T22:30:53.018432Z","v":1}

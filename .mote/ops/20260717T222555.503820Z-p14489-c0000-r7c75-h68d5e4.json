@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-wasm-profile","kind":"reserve_open","mode":"exclusive","op":"20260717T222555.503820Z-p14489-c0000-r7c75-h68d5e4","paths":["build.sbt","benchmarks/js","benchmarks/results","README.md",".github/workflows/ci.yml"],"reservation_id":"rv-01KXS2ZBSFHJ0997E2KGP16ET9","ts":"2026-07-17T22:25:55.503820Z","ttl_s":3600,"v":1}

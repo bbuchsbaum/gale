@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-wasm-profile","kind":"note","note_kind":"progress","op":"20260717T222555.612843Z-p14489-c0003-rdc2b-hfe00c6","text":"Profiling identical compute-heavy Scala.js kernels under fullLink JavaScript and experimental Wasm; link-only success will not be reported as performance.","ts":"2026-07-17T22:25:55.612843Z","v":1}
