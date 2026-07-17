@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-lapack-ffm","kind":"note","note_kind":"progress","op":"20260717T214921.961361Z-p61493-c0003-rc796-h87f2fc","text":"Implementing JDK 22 FFM LAPACK provider with typed LU/Cholesky/QR, symmetric spectral capability, conformance, and JMH evidence.","ts":"2026-07-17T21:49:21.961361Z","v":1}
