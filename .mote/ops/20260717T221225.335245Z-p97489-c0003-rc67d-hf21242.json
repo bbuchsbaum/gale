@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-native-thresholds","kind":"note","note_kind":"progress","op":"20260717T221225.335245Z-p97489-c0003-rc67d-hf21242","text":"Measuring heap-copy-inclusive GEMV plus consolidating existing GEMM and LAPACK crossover evidence into library-family-specific defaults.","ts":"2026-07-17T22:12:25.335245Z","v":1}

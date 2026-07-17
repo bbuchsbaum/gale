@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-scenario-benchmarks","kind":"note","note_kind":"progress","op":"20260717T221707.306449Z-p2063-c0003-rbb0a-h865537","text":"Added solver/factorization scenarios with full warmup plus focused GC allocation evidence; documenting policy impact.","ts":"2026-07-17T22:17:07.306449Z","v":1}

@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"gale-v0-5-native-thresholds","kind":"reserve_open","mode":"exclusive","op":"20260717T221225.096426Z-p97489-c0000-r56ac-h735a6e","paths":["backend-jvm-blas-ffm","benchmarks/jvm-ffm","benchmarks/results","benchmarks/README.md"],"reservation_id":"rv-01KXS26MC8BS0YEQRC8NG5VYN1","ts":"2026-07-17T22:12:25.096426Z","ttl_s":3600,"v":1}
