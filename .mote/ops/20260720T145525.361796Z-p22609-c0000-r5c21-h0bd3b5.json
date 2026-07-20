@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"bd-01KXZQCRJQ02WXW3PRY5BTQY5K","kind":"reserve_open","mode":"exclusive","op":"20260720T145525.361796Z-p22609-c0000-r5c21-h0bd3b5","paths":["core/jvm/src/main/scala/gale/sparse/direct/SparseDirect.scala"],"reservation_id":"rv-01KY00CM5HEKGZ8120G373QG9Y","ts":"2026-07-20T14:55:25.361796Z","ttl_s":3600,"v":1}
