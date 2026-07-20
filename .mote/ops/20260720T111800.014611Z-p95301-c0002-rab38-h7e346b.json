@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"bd-01KXZH248E1GQ86T4K5S3B1K53","kind":"note","note_kind":"progress","op":"20260720T111800.014611Z-p95301-c0002-rab38-h7e346b","text":"Final totality audit found CSR/CSC pointer-length overflow at Int.MaxValue dimensions; adding checked preflight Lefts and regression tests","ts":"2026-07-20T11:18:00.014611Z","v":1}

@@ -1,0 +1,1 @@
+{"actor":"codex-gale-prd","entity":"bd-01KXZH1MHF49SM55D2442VJK3G","kind":"note","note_kind":"progress","op":"20260720T111411.711731Z-p93331-c0002-r6186-h618f89","text":"Final allocation audit found capturing closures in primitive copy methods; replacing with direct loops and adding a JVM GC receipt","ts":"2026-07-20T11:14:11.711731Z","v":1}
